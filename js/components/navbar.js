@@ -86,7 +86,7 @@ class Navbar extends HTMLElement {
                     <li><a href="#">Our Members</a></li>
                   </ul>
                 </li>
-                <li class="nav-item"><a href="blogs.html" class="nav-link">Blogs</a></li>
+                <li class="nav-item"><a href="blogs.php" class="nav-link">Blogs</a></li>
                 <li class="nav-item"><a href="events.html" class="nav-link">Events</a></li>
                 <li class="nav-item"><a href="#" class="nav-link">Contact us</a></li>
               </ul>
